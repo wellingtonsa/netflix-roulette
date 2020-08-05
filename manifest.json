@@ -2,10 +2,15 @@
     "manifest_version": 2,
     "name": "Netflix Roulette",
     "version": "0.1",
+    "icons": {
+        "16": "assets/icon16.png",
+        "48": "assets/icon48.png",
+        "128": "assets/icon128.png"
+    },
     "content_scripts": [
         {
             "matches": [
-                "https://www.netflix.com/browse/*"
+                "https://www.netflix.com/browse/*", "https://www.netflix.com/latest"
             ],
             "css": [
                 "styles.css"
