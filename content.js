@@ -8,6 +8,7 @@ const interval = setInterval(() => {
         const button = document.createElement("button");
         button.innerHTML = "Random";
         button.classList.add("btn-random");
+        button.addEventListener('click', handleChoose);
 
         const navigationOption = document.createElement("li");
         navigationOption.classList.add("navigation-tab");   
@@ -15,6 +16,19 @@ const interval = setInterval(() => {
 
         header.appendChild(navigationOption);
 
+        
+
     }
 
 }, 1000)
+
+
+
+function handleChoose(){
+    let items = document.querySelectorAll(".slider-item a");
+    
+    let item = Math.floor(Math.random() * (items.length - 1)); 
+
+    window.location.href = items[item].href;
+    
+}

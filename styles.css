@@ -1,0 +1,12 @@
+.btn-random {
+    background-color: #e50914;
+    line-height: normal;
+    padding: 7px 17px;
+    font-weight: 400;
+    font-size: 1rem;
+    font-family: 'Netflix Sans','Helvetica Neue', 'Helvetica','Arial','sans-serif';
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    font-weight: bold;
+}
