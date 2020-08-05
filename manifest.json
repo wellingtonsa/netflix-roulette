@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Netflix Roulette",
+    "version": "0.1",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://www.netflix.com/browse/*"
+            ],
+            "css": [
+                "styles.css"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
