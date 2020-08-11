@@ -3,7 +3,7 @@
   </div>
   <br>
   <div align="center">
-    What Should I Watch? A Chrome extension to choose a random movie/series to watch on Netflix 🎥 🔀
+    What Should I Watch? A Chrome extension that choose a random movie/series for you watch on Netflix  🎥 🔀
   </div>
 
  ## Instructions
