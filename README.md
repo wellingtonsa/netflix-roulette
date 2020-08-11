@@ -1,6 +1,11 @@
 # Netflix Roulette
-## <center>![alt text](https://raw.githubusercontent.com/wellingtonsa/netflix-roulette/master/assets/icon128.png "Netflix Roulette Logo")</center>
- <center>What Should I Watch? A Chrome extension to choose a random movie/series to watch on Netflix 🎥 🔀</center>
+  <div align="center" display="flex">
+    <Image src="https://raw.githubusercontent.com/wellingtonsa/netflix-roulette/master/assets/icon128.png"/>
+  </div>
+  <br>
+  <div align="center">
+    What Should I Watch? A Chrome extension to choose a random movie/series to watch on Netflix 🎥 🔀
+  </div>
 
  ## Instructions
 If you want to install as a Developer, please follow this steps:
