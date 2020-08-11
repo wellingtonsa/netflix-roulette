@@ -16,12 +16,9 @@ const interval = setInterval(() => {
 
         header.appendChild(navigationOption);
 
-        
-
     }
 
 }, 1000)
-
 
 
 function handleChoose(){
