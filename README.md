@@ -1,8 +1,4 @@
   <div align="center" display="flex">
-    <h1>Netflix Roulette</h1>
-  </div>
-  <br>
-  <div align="center" display="flex">
     <Image src="https://raw.githubusercontent.com/wellingtonsa/netflix-roulette/master/assets/icon128.png"/>
   </div>
   <br>
