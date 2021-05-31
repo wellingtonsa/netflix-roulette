@@ -7,12 +7,12 @@
   </div>
 
  ## Instructions
-If you want to install as a Developer, please follow this steps:
+If you want to install as a Developer, please follow these steps:
 - You need to clone the repository using:
 ```
 git clone https://github.com/wellingtonsa/netflix-roulette.git
 ```
-- After that, you need going to `chrome://extensions` on your Google Chrome
+- After that, you need go to `chrome://extensions` on your Google Chrome
 
 - Enable the switch called `Developer Mode`
 
